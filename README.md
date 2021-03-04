@@ -1,1 +1,1 @@
-Automated Storage Gateway Activstion and Cache Disk Allocation using Python
+Automated Storage Gateway Activation and Cache Disk Allocation using Python
